@@ -1,6 +1,6 @@
 ﻿# Model banky
 
-Admin účet:
+### Admin účet:
 
 username: admin
 heslo: admin
